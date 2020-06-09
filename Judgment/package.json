@@ -1,0 +1,9 @@
+{
+  "name": "judgment",
+  "version": "0.0.0",
+  "description": "Judgment",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
